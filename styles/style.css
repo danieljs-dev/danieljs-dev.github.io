@@ -1,0 +1,18 @@
+body {
+    background-color: #1B1D20;
+    font-family: "IBMPlexMonoItalic", monospace;
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-family: Helvetica, sans-serif;
+}
+
+h2 {
+    color: #AA88FF;
+}
+
+h3 {
+    color: #9B30F9;
+}
