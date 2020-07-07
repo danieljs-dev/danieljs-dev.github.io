@@ -15,7 +15,7 @@ h2 {
 }
 
 h3 {
-    color: #9B30F9;
+    color: #9A48D0;
 }
 
 .color-bold {
@@ -33,4 +33,18 @@ a {
 
 a.link:hover {
     color: #22EE00;
+}
+
+.btn {
+    color: white;
+    background-color: #9A48D0;
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-weight: 900;
+}
+
+.btn:hover {
+    color: #9A48D0;
+    background-color: white;
 }
