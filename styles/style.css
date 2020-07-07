@@ -2,6 +2,7 @@ body {
     background-color: #1B1D20;
     font-family: "IBMPlexMonoItalic", monospace;
     color: white;
+    font-size: 13px;
 }
 
 h1 {
@@ -15,4 +16,21 @@ h2 {
 
 h3 {
     color: #9B30F9;
+}
+
+.color-bold {
+    color: #22EE00;
+    font-weight: 900;
+}
+
+a {
+    text-decoration: none;
+}
+
+.link {
+    color: white;
+}
+
+a.link:hover {
+    color: #22EE00;
 }
