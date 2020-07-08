@@ -2,20 +2,16 @@ body {
     background-color: #1B1D20;
     font-family: "IBMPlexMonoItalic", monospace;
     color: white;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 h1 {
     color: white;
-    font-family: Helvetica, sans-serif;
+    font-family: 'Merienda One', cursive;
 }
 
-h2 {
+h2, h3 {
     color: #AA88FF;
-}
-
-h3 {
-    color: #9A48D0;
 }
 
 .color-bold {
@@ -35,6 +31,7 @@ a.link:hover {
     color: #22EE00;
 }
 
+
 .btn {
     color: white;
     background-color: #9A48D0;
@@ -47,4 +44,27 @@ a.link:hover {
 .btn:hover {
     color: #9A48D0;
     background-color: white;
+}
+
+.thumb {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    border: 3px solid#22EE00;
+}
+
+.thumb:hover {
+    border: 3px solid #AA88FF;
+}
+
+li {
+    padding-top: 10px;
+}
+
+li:hover {
+    color: #22EE00;
+}
+
+.text-size {
+    font-size: 15px;
 }
