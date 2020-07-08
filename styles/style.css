@@ -72,3 +72,17 @@ li:hover {
 .copyright {
     font-size: 13px;
 }
+
+/* Scroll bar */
+::-webkit-scrollbar {
+    width:5px;
+    }
+
+::-webkit-scrollbar-track {
+    background:#333;
+    }
+
+::-webkit-scrollbar-thumb {
+    background: #9A48D0;
+    }
+/* Fim Scroll bar */
